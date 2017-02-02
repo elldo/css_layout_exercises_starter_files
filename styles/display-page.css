@@ -1,0 +1,55 @@
+.container {
+    border: 2px solid black;
+    margin: auto;
+    background-color: gray;
+    width: 800px;
+    height: 500px;
+}
+
+#prvi {
+    background-color: green;
+    width: 50%;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: -4px;
+}
+
+#drugi {
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: -4px;
+}
+
+#treci {
+    background-color: yellowgreen;
+    width: 33.33333%;
+    height: 297px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: -4px;
+    margin-top: -4px;
+}
+
+#cetvrti {
+    background-color: purple;
+    width: 33.33333%;
+    height: 297px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: -4px;
+    margin-top: -4px;
+}
+
+#peti {
+    background-color: orange;
+    width: 33.33333%;
+    height: 297px;
+    display: inline-block;
+    border: 1px solid black;
+    margin-right: -4px;
+    margin-top: -4px;
+}
